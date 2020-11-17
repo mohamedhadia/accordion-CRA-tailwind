@@ -20,10 +20,10 @@ module.exports = {
   theme: {
     extend: {
       minHeight: {
-        0: '0',
-        '1/4': '25%',
-        '1/2': '50%',
-        '3/4': '75%',
+        0: "0",
+        "1/4": "25%",
+        "1/2": "50%",
+        "3/4": "75%",
       },
     },
     screens: {
@@ -277,14 +277,7 @@ module.exports = {
     },
     fontFamily: {
       sans: [
-        "system-ui",
-        "-apple-system",
-        "BlinkMacSystemFont",
-        '"Segoe UI"',
-        "Roboto",
-        '"Helvetica Neue"',
-        "Arial",
-        '"Noto Sans"',
+        "Inter",
         "sans-serif",
         '"Apple Color Emoji"',
         '"Segoe UI Emoji"',
