@@ -1,3 +1,8 @@
+## live version : 
+
+https://accordion-cra-tailwind-i44o3xov5.vercel.app/
+
+
 ## download the rep and || `npm install` to install the dependencies
 
 ## on production remeber to go to tailwiond.config.js file and change this to `true`
