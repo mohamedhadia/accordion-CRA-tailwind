@@ -24,7 +24,7 @@ const SingleQuestion = ({ title, info }) => {
           </button>
         </div>
         {isOpen && (
-          <p className={`text-gray-600 leading-6 tracking-wide text-sm mt-2`}>
+          <p className={`text-gray-600 leading-6 tracking-wide text-sm mt-2 transition duration-500 ease-in-out`}>
             {info}
           </p>
         )}
